@@ -2,10 +2,9 @@
 
 ## I'm a Developer !!
 
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to farming, read historical book and arabic calligraphy
+- 🌱 I’m currently learning NodeJS and VueJS, also a little about Golang
+- 🥅 2022 Goals: Contribute to Open Source projects, writing about programming stuf at Medium
+- ⚡ Fun fact: I love to farming, read historical book, playing games of course
 
 ### Connect with me:
 
