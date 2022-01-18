@@ -2,7 +2,7 @@
 
 ## I'm a Developer !!
 
-- 🌱 I’m currently learning NodeJS and VueJS, also a little about Golang
+- 🌱 I’m currently learning NodeJS and VueJS, and also a little about Golang
 - 🥅 2022 Goals: Contribute to Open Source projects, writing about programming stuf at Medium
 - ⚡ Fun fact: I love to farming, read historical book, playing games of course
 
