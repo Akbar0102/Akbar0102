@@ -1,9 +1,9 @@
 ### Hi there, I'm Akbar Hidayatuloh 👋
 
-## I'm a Developer !!
+## I'm a Programmer !!
 
 - 🌱 I’m currently learning NodeJS and VueJS, and also a little about Golang
-- 🥅 2022 Goals: Contribute to Open Source projects, writing about programming stuf at Medium
+- 🥅 2023 Goals: Contribute to Open Source projects, writing about programming stuf and work log about current project which I handled at Medium
 - ⚡ Fun fact: I love to farming, read historical book, playing games of course
 
 ### Connect with me:
