@@ -2,8 +2,8 @@
 
 ## I'm a Programmer !!
 
-- 🌱 I’m currently learning NodeJS, VueJS, Golang, and NextJS
-- 🥅 2023 Goals: Writing about programming stuf and work log about current project which I handled, on Medium media
+- 🌱 I’m currently learning NodeJS, VueJS, NestJs, and Golang
+- 🥅 2025 Goals: Writing about programming stuf and work log about current project which I handled, on Medium media
 - ⚡ Fun fact: I love to farming, cooking, reading historical book, and playing games of course
 
 ### Connect with me:
